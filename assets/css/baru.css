@@ -1,0 +1,236 @@
+<<<<<<< HEAD
+html,
+body{
+    background-color: #323232;
+}
+.navbar{
+    background-color: #959595;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+}
+.content{
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    left: 30px;
+}
+ul{
+    margin-right: 20%;
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+li{
+    padding: 20px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+}
+h1{
+    margin: 0;
+    color: #fff;
+}
+.main-content {
+    padding-top: 170px;
+    left: -25px;
+    margin-left:-8px   ;   
+    margin-right: -8px;
+}
+
+.badan {
+    font-weight: bold;
+    padding-left: 20%;
+    padding-right: 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.kiri h2{
+    position: absolute;
+width: 601px;
+height: 210px;
+left: 97px;
+top: 164px;
+
+font-family: Manrope;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 70px;
+/* or 109% */
+
+letter-spacing: -0.5px;
+
+color: #DEDEDE;
+}
+.kiri h3{
+    position: absolute;
+width: 479px;
+height: 108px;
+left: 97px;
+top: 300px;
+
+font-family: Manrope;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* or 150% */
+
+letter-spacing: -0.5px;
+
+color: #959595;
+}
+.kanan{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.kanan img {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+ }
+ .tombol a {
+    font-family: Manrope;
+    font-size: 15px;
+    background: #ff0000;
+    border-radius: 5px;
+    padding: 12px 20px;
+    margin-top: 10px;
+    text-decoration: none;
+ }
+ .btn{
+    margin-left: 90px;
+    width: 150px;
+=======
+html,
+body{
+    background-color: #323232;
+}
+.navbar{
+    background-color: #959595;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+}
+.content{
+    margin-left: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    left: 30px;
+}
+ul{
+    margin-right: 20%;
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+li{
+    padding: 20px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #fff;
+}
+h1{
+    margin: 0;
+    color: #fff;
+}
+.main-content {
+    padding-top: 170px;
+    left: -25px;
+    margin-left:-8px   ;   
+    margin-right: -8px;
+}
+
+.badan {
+    font-weight: bold;
+    padding-left: 20%;
+    padding-right: 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.kiri h2{
+    position: absolute;
+width: 601px;
+height: 210px;
+left: 97px;
+top: 164px;
+
+font-family: Manrope;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 70px;
+/* or 109% */
+
+letter-spacing: -0.5px;
+
+color: #DEDEDE;
+}
+.kiri h3{
+    position: absolute;
+width: 479px;
+height: 108px;
+left: 97px;
+top: 300px;
+
+font-family: Manrope;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+/* or 150% */
+
+letter-spacing: -0.5px;
+
+color: #959595;
+}
+.kanan{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.kanan img {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+ }
+ .tombol a {
+    font-family: Manrope;
+    font-size: 15px;
+    background: #ff0000;
+    border-radius: 5px;
+    padding: 12px 20px;
+    margin-top: 10px;
+    text-decoration: none;
+ }
+ .btn{
+    margin-left: 90px;
+    width: 150px;
+>>>>>>> be2d50e (pertama comit)
+ }
